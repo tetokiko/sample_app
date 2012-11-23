@@ -27,3 +27,7 @@ end
 group :production do
   gem 'pg', '0.12.2'
 end
+
+# Usado para bootstrap: CSS framework
+gem 'rails', '3.2.9'
+gem 'bootstrap-sass', '2.1'
